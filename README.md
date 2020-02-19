@@ -1,3 +1,3 @@
 # website.git.io
 
-<a href="https://github.com/unose/website.git.io/data/b.html"> click </a>
+<a href="https://unose.github.io/website/a.html"> click </a>
